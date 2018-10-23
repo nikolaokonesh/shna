@@ -5,20 +5,7 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-10-02T16:21:00+11:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
-  <entry>
-    <title>ochen plohaya pogoda</title>
-    <link rel="alternate" href="http://blog.url.com/2018-10-02-ochen-plohaya-pogoda.html"/>
-    <id>http://blog.url.com/2018-10-02-ochen-plohaya-pogoda.html</id>
-    <published>2018-10-02T16:21:00+11:00</published>
-    <updated>2018-10-02T16:21:03+11:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">
-</content>
-  </entry>
 </feed>
